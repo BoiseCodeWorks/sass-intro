@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  background: black;
+  color: white;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+
+.navbar .nav-left {
+  margin-left: 1rem;
+}
+
+.navbar .nav-right {
+  margin-right: 1rem;
+}
